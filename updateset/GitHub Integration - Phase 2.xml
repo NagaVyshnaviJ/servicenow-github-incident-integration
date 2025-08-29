@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2025-08-29 16:00:57">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>GitHub Integration - Phase 2 (System Property)</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>0baae39383e722100fcabfc6feaad326</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-29 16:00:56</sys_created_on>
+<sys_id>a5fb2fd383e722100fcabfc6feaad3b7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-29 16:00:56</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_da4b675f83a722100fcabfc6feaad3a5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>The sys_id of the default user for GitHub incidents.</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>GitHub Integration - Phase 2 (System Property)</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-29 15:58:15</sys_created_on><sys_id>da4b675f83a722100fcabfc6feaad3a5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GitHub Integration - Phase 2 (System Property)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_da4b675f83a722100fcabfc6feaad3a5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-29 15:58:15</sys_updated_on><type>string</type><value>62826bf03710200044e0bfc8bcbe5df1</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=da4b675f83a722100fcabfc6feaad3a5"/></record_update>]]></payload>
+<payload_hash>1805323343</payload_hash>
+<remote_update_set display_value="GitHub Integration - Phase 2 (System Property)">a5fb2fd383e722100fcabfc6feaad3b7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-29 16:00:56</sys_created_on>
+<sys_id>61fb2fd383e722100fcabfc6feaad3b8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198f68d0bb30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-29 16:00:56</sys_updated_on>
+<table/>
+<target_name>GitHub Integration - Phase 2 (System Property)</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>5a5baf93c1e722102455e933a0c7b704</update_guid>
+<update_guid_history>5a5baf93c1e722102455e933a0c7b704:1805323343</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_a8abab9f83a722100fcabfc6feaad3d4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>The sys_id of the default user for GitHub incidents.</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>github.integration.default_caller_id</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-29 16:00:04</sys_created_on><sys_id>a8abab9f83a722100fcabfc6feaad3d4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>github.integration.default_caller_id</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_a8abab9f83a722100fcabfc6feaad3d4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-29 16:00:04</sys_updated_on><type>string</type><value>62826bf03710200044e0bfc8bcbe5df1</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=a8abab9f83a722100fcabfc6feaad3d4"/></record_update>]]></payload>
+<payload_hash>1256490287</payload_hash>
+<remote_update_set display_value="GitHub Integration - Phase 2 (System Property)">a5fb2fd383e722100fcabfc6feaad3b7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-29 16:00:56</sys_created_on>
+<sys_id>69fb2fd383e722100fcabfc6feaad3b7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>198f68eb5ad0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-29 16:00:56</sys_updated_on>
+<table/>
+<target_name>github.integration.default_caller_id</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>74cbe3d3a6e72210659fd1995fb6cdfb</update_guid>
+<update_guid_history>74cbe3d3a6e72210659fd1995fb6cdfb:1256490287</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
