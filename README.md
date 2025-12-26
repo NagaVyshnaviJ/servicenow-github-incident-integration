@@ -4,7 +4,7 @@ This project provides a simple, yet powerful, integration to automatically creat
 
 This is achieved using a **GitHub Webhook** that sends a payload to a custom **Scripted REST API** endpoint in ServiceNow.
 
-## Features ✨
+## Features 
 
 * **Automatic Incident Creation**: New GitHub issues are instantly created as incidents.
 * **Dynamic Caller Mapping**: The script attempts to map the GitHub user who opened the issue to a user in ServiceNow.
@@ -17,7 +17,7 @@ This is achieved using a **GitHub Webhook** that sends a payload to a custom **S
 * Admin access to the ServiceNow instance.
 * A GitHub repository where you can configure webhooks.
 
-## Setup Instructions 🔧
+## Setup Instructions 
 
 ### 1. ServiceNow Configuration
 
@@ -59,6 +59,6 @@ This is achieved using a **GitHub Webhook** that sends a payload to a custom **S
     * **Events**: Select "Let me select individual events" and check **Issues**.
 4.  Save the webhook.
 
-## Usage 🚀
+## Usage 
 
 To test the integration, simply create a new issue in this repository. An incident should appear in your ServiceNow instance within seconds.
