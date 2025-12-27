@@ -1,4 +1,4 @@
-# ServiceNow-GitHub Incident Integration ⚙️
+# ServiceNow-GitHub Incident Integration 
 
 This project provides a simple, yet powerful, integration to automatically create an incident in a ServiceNow instance whenever a new issue is opened in this GitHub repository.
 
